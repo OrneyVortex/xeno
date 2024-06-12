@@ -9,3 +9,22 @@ This project is a web application that allows users to manage customer data, cre
 - **Campaign Management**: View a list of past campaigns with the latest campaign on top.
 - **JWT**: Secure login in the application with JSON webtoken authentication.
 
+## Prerequisites
+Node.js
+MongoDB
+Kafka
+
+Install dependencies:
+- npm install
+Configure MongoDB and Kafka:
+// dbConfig.js
+module.exports = {
+  mongoURI: 'your-mongodb-uri'
+};
+
+// kafkaConfig.js
+module.exports = {
+  kafkaHost: 'your-kafka-host'
+};
+
+
