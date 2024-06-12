@@ -14,7 +14,7 @@ Node.js
 MongoDB
 Kafka
 
-## Install dependencies:
+## Install dependencies in the API folder and the full-stack-crm-main/server and full-stack-crm-main/client :
 - npm install
 ## Configure MongoDB and Kafka:
  ** dbConfig.js
