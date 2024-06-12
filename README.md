@@ -17,12 +17,12 @@ Kafka
 ## Install dependencies:
 - npm install
 ## Configure MongoDB and Kafka:
- dbConfig.js
+ ** dbConfig.js
 module.exports = {
   mongoURI: 'your-mongodb-uri'
 };
 
-// kafkaConfig.js
+** kafkaConfig.js
 module.exports = {
   kafkaHost: 'your-kafka-host'
 };
