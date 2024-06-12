@@ -7,4 +7,5 @@ This project is a web application that allows users to manage customer data, cre
 - **Customer Management**: Add and manage customer data.
 - **Audience Creation**: Create audiences based on rules such as total spends, number of visits, and last visit date.
 - **Campaign Management**: View a list of past campaigns with the latest campaign on top.
-- **JWT**: Secure the application with JSON webtoken authentication.
+- **JWT**: Secure login in the application with JSON webtoken authentication.
+
