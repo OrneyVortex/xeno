@@ -14,10 +14,10 @@ Node.js
 MongoDB
 Kafka
 
-Install dependencies:
+## Install dependencies:
 - npm install
-Configure MongoDB and Kafka:
-// dbConfig.js
+## Configure MongoDB and Kafka:
+ dbConfig.js
 module.exports = {
   mongoURI: 'your-mongodb-uri'
 };
