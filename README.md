@@ -8,11 +8,13 @@ This project is a web application that allows users to manage customer data, cre
 - **Audience Creation**: Create audiences based on rules such as total spends, number of visits, and last visit date.
 - **Campaign Management**: View a list of past campaigns with the latest campaign on top.
 - **JWT**: Secure login in the application with JSON webtoken authentication.
+- **Data Ingestion API**: Efficiently ingest customer and order data via a RESTful API.
 
 ## Prerequisites
 Node.js
 MongoDB
 Kafka
+Chakra UI
 
 ## Install dependencies in the API folder and the full-stack-crm-main/server and full-stack-crm-main/client :
 - npm install
